@@ -1,8 +1,9 @@
-## 🔧 Technologies & Tools
+## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=blue&color=blue)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=blue&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=yellow)
 
+## GitHub Stats
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats-d4rkov.vercel.app/api/top-langs/?username=D4rkov&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
