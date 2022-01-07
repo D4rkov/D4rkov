@@ -3,7 +3,9 @@
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=blue&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=edd84e&color=edd84e)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=blue&color=blue)
+<!---
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS-Wizardry&logoColor=42256b&color=42256b)
+-->
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=Heroku&logoColor=430098&color=430098)
 
 ## GitHub Stats
