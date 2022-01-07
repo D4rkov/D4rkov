@@ -7,9 +7,9 @@
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=Heroku&logoColor=430098&color=430098)
 
 ## GitHub Stats
-<a href="https://github.com/D4rkov/D4rkov">
+<a href="https://github.com/D4rkov">
   <img align="center" src="https://github-readme-stats-d4rkov.vercel.app/api/top-langs/?username=D4rkov&theme=github_dark&langs_count=5" />
 </a>
-<a href="https://github.com/D4rkov/D4rkov">
+<a href="https://github.com/D4rkov">
   <img align="center" src="https://github-readme-stats-d4rkov.vercel.app/api?username=D4rkov&theme=github_dark&show_icons=true&line_height=27&count_private=true" alt="Darkov's GitHub Stats" />
 </a>
