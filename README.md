@@ -8,8 +8,8 @@
 
 ## GitHub Stats
 <a href="https://github.com/D4rkov">
-  <img align="center" src="https://github-readme-stats-d4rkov.vercel.app/api/top-langs/?username=D4rkov&theme=github_dark&bg_color=FFFFFFFF&langs_count=3" />
+  <img align="center" src="https://github-readme-stats-d4rkov.vercel.app/api/top-langs/?username=D4rkov&theme=github_dark&langs_count=3" />
 </a>
 <a href="https://github.com/D4rkov">
-  <img align="center" src="https://github-readme-stats-d4rkov.vercel.app/api?username=D4rkov&theme=github_dark&bg_color=FFFFFFFF&show_icons=true&line_height=27&count_private=true" alt="Darkov's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-d4rkov.vercel.app/api?username=D4rkov&theme=github_dark&show_icons=true&line_height=27&count_private=true" alt="Darkov's GitHub Stats" />
 </a>
