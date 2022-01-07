@@ -1,7 +1,7 @@
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=blue&color=blue)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=blue&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=yellow)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=blue&color=blue)
 
 ## GitHub Stats
 <a href="https://github.com/MartinHeinz/MartinHeinz">
