@@ -13,3 +13,7 @@
 <a href="https://github.com/D4rkov">
   <img align="center" src="https://github-readme-stats-d4rkov.vercel.app/api?username=D4rkov&theme=github_dark&show_icons=true&line_height=27&count_private=true" alt="Darkov's GitHub Stats" />
 </a>
+
+<a href="https://github.com/D4rkov/Primarch">
+<img align="center" src="https://github-readme-stats-d4rkov.vercel.app/api/pin/?username=D4rkov&repo=primarch&theme=github_dark" />
+</a>
