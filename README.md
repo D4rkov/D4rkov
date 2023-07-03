@@ -12,3 +12,4 @@
 <a href="https://github.com/D4rkov">
   <img align="center" src="https://github-readme-stats-d4rkov.vercel.app/api?username=D4rkov&theme=github_dark&show_icons=true&line_height=27&count_private=true" alt="Darkov's GitHub Stats" />
 </a>
+<p align="center"><img align="center" src="https://count.chiya.dev/get/@D4rkov?theme=gelbooru" alt="Darkov Github" /></p>
